@@ -6,6 +6,8 @@ the second part of the code is creating a bucket in S3. you can enter a name and
 ## Steps for deployment
   Place the folder on the desktop.
   
+  pip install Django
+  
   Update the access key in the seetings file: GitHub\Django-cloudtrail\cloudtrail\S3Project\settings.py
   
   On anaconda prompt navigate to the location where the folder is placed.
